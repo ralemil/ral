@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-family: Arial black;
+}
+body{
+    background-image: url(milky.webp);
+    margin: auto;
+    margin-left: 50mm;
+    margin-right: 50mm;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table, td, tr{
+    color: whitesmoke;
+    text-align: left;
+    font-size: xx-large;
+    font-family: arial black;
+    padding: 20px;
+    text-align: center;
+    
+}
+th{
+    text-align: center;
+    font-size: xx-large;
+    
+}
+    
